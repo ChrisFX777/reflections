@@ -1,0 +1,13 @@
+How did viewing a diff between two versions of a file help you see the that was introduced ?
+
+--------------------------------------------------------------------
+How can you use the commands git log and git diff to view the history of files?
+
+git log to show all commits with id,date,author and comment
+and git diff with ids to compare to look at changes made to the files
+
+----------------------------------------------------------------------
+How might using version control make you more confident to make changes that could break something?
+
+because i can always save the working state image before and checkout back if i need to
+----------------------------------------------------------------------
